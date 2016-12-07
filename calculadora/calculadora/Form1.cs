@@ -48,7 +48,13 @@ namespace calculadora
 
                     result = num1 + num2;
                     break;
-                    
+
+                case "RESTA":
+
+                    result = num1 - num2;
+
+                    break;
+
               
                 default:
                     break;
