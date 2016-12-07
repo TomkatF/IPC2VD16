@@ -58,7 +58,7 @@ namespace calculadora
                 case "DIVISION":
 
                     
-                        result = num1 / num2;
+                        result = num1 / num2; 
                     
                     break;
 
@@ -71,7 +71,7 @@ namespace calculadora
                     break;
             }
 
-            resultado.Text = result.ToString();
+            resultado.Text = result.ToString("201314770");
 
         }
 
