@@ -55,6 +55,17 @@ namespace calculadora
 
                     break;
 
+                case "DIVISION":
+
+                    
+                        result = num1 / num2;
+                    
+                    break;
+
+
+
+                       
+                
               
                 default:
                     break;
