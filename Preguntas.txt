@@ -1,0 +1,10 @@
+¿Qué entiende como "commit"?
+es el el comando u opcion que guarda los cambios que se han realizado en el proyecto.
+
+¿Qué entiende como "merge"?
+
+es para unir una rama con la rama actual.
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+
+puss envia los cambios al repositorio y pull es para actualizar tu repositorio al commit mas nuevo.
