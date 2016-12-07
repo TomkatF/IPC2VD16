@@ -62,10 +62,10 @@ namespace calculadora
                     
                     break;
 
+                case "MULTIPLICACION":
 
-
-                       
-                
+                    result = num1 * num2;
+                    break;
               
                 default:
                     break;
